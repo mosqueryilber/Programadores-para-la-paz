@@ -1,0 +1,8 @@
+Node.js permite ejecutar JavaScript en el servidor y crear aplicaciones web dinámicas.
+Express facilita la creación de servidores de forma sencilla y rápida.
+Estas herramientas ayudan a construir APIs y sistemas web modernos.
+Permiten desarrollar proyectos escalables y eficientes.
+Son tecnologías muy usadas en el desarrollo backend.
+Ayudan a las comunidades a crear soluciones digitales propias.
+Fomentan el aprendizaje de programación del lado del servidor.
+Promueven el uso de tecnologías abiertas y accesibles.
